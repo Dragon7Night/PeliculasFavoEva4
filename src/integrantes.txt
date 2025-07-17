@@ -1,0 +1,40 @@
+
+
+Evaluacion N°4 | Programación Front End
+
+seccion: D-B50-N3-P13-C2
+
+Tematica: Peliculas favoritas
+
+Integrantes: Daniel Ortiz y José Valdés
+
+
+Link del repositorio en GitHud
+
+https://github.com/Dragon7Night/PeliculasFavo.git
+
+
+
+
+-- complementos utilizados
+
+
+npm install
+
+npm i bootstrap@5.3.7
+
+npm i bootstrap-icons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
