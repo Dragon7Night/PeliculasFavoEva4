@@ -9,10 +9,10 @@ const PeliculaItem = ({ pelicula, onEditar, onEliminar }) => {
       <li className="list-group-item list-group-item-action  list-group-item-warning d-flex justify-content-between align-items-center">
 
         <div>
-          <div> <strong>Titulo:</strong> {titulo}</div>
-          <div> <strong>Fecha de publicacion:</strong> [{anio}] </div>
-          <div> <strong>Genero:</strong> {genero}</div>
-          <div> <strong>Puntuacion:</strong> ★{puntuacion}</div>
+          <div> <strong>Título:</strong> {titulo}</div>
+          <div> <strong>Fecha de publicación:</strong> [{anio}] </div>
+          <div> <strong>Género:</strong> {genero}</div>
+          <div> <strong>Puntuación:</strong> ★{puntuacion}</div>
         </div>
 
         <div>
